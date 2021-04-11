@@ -9,7 +9,7 @@
 
 ***You can Install and test latest app from below 👇***
 
-[![NewsX App](https://img.shields.io/badge/NewsX-Apk-blue?style=for-the-badge&logo=android)](https://github.com/)
+[![NewsX App](https://img.shields.io/badge/NewsX-Apk-blue?style=for-the-badge&logo=android)](https://github.com/dassatya1995/NewsX/tree/master/app/release/NewsX.apk)
 
 ## About
 It simply loads **News** data from open source API and shows to the user.
