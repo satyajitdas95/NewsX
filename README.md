@@ -1,8 +1,8 @@
 # NewsX - Sample News App Android
 
 <p align="center">
-  <img src="https://dassatya1995.github.io/NewsX-1.png" width="250">
-  <img src="https://dassatya1995.github.io/NewsX-2.png" width="250">
+  <img src="https://dassatya1995.github.io/NewsX-1.jpeg" width="250">
+  <img src="https://dassatya1995.github.io/NewsX-2.jpeg" width="250">
   <img src="https://dassatya1995.github.io/NewsX-3.gif" height="500" width="250">
 </p>
 <br>
