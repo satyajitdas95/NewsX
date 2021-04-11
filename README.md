@@ -62,6 +62,13 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
+### Requirements
+- JDK 8
+- Latest Android SDK tools
+- Latest Android platform tools
+- Android SDK 21 or newer
+- AndroidX
+
 #### Setup Project
 1. Open Android studio and select Get from Version Control.
 2. Add URL as **https:www.google.com** and proceed.
