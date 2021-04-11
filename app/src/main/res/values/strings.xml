@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NewsX</string>
+
+    <!--Toolbar menus-->
+
+    <!--Drawer-->
+
+    <!--Drawer Menus-->
+
+    <!--App Message-->
+
+    <!--Login-->
+
+    <!--Login Validation-->
+
+    <!--about fragment-->
+
+    <!--rating dialog-->
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+    <!--button-->
+
+    <!--feed-->
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+    <string name="label_okay">Okay</string>
+    <string name="label_error">Error</string>
+    <string name="label_success">Success</string>
+    <string name="label_no_network">No Network</string>
+    <string name="label_no_network_description">Please connect and try again.</string>
+
+
+    <!--article details-->
+    <string name="label_source">Source : </string>
+    <string name="label_author">Author : </string>
+
+</resources>
