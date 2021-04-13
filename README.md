@@ -78,7 +78,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 #### Setup Project
 1. Open Android studio and select Get from Version Control.
-2. Add URL as **https:www.google.com** and proceed.
+2. Add URL as **https://github.com/dassatya1995/NewsX.git** and proceed.
 3. Visit [NewsAPI.org](https://newsapi.org/register) to get your API Key
 4. Copy your API Key from accounts section.
 5. Open `build.gradle(:app)`
