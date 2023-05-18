@@ -1,4 +1,6 @@
-# NewsX - Sample News App Android
+## NewsX - Sample News App Android
+
+##Kotlin version coming soon.
 
 <p align="center">
   <img src="https://dassatya1995.github.io/NewsX-1.jpeg" height="500" width="250">
